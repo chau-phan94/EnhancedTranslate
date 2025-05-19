@@ -91,7 +91,6 @@ This tool is designed for internal business use to enhance productivity in inter
 
 - Project Lead: Chauphan-94
 - Department: Naver Vietnam iOS Team
-- Internal Extension: [Your Extension]
 
 ## Contact
 
