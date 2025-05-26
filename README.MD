@@ -8,9 +8,7 @@ This internal project implements advanced AI-driven speech recognition and trans
 - **Enterprise-grade Translation**: Secure, business-focused translation with support for industry-specific terminology
 - **Accent Recognition**: Enhanced models to understand various accents and dialects
 - **Meeting Context Awareness**: AI that understands conversation context for more accurate translations
-- **Real-Time Transcription**: Converts audio to text using `SFSpeechRecognizer` with AI enhancements
-- **Swift Concurrency**: Manages complex AI processing with `AsyncThrowingStream`
-
+- **Real-Time Transcription**: Converts audio to text.
 ## Technical Requirements
 
 - iOS 16.0+
